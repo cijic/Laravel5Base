@@ -147,7 +147,7 @@ return [
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
         'Barryvdh\Debugbar\ServiceProvider',
         Collective\Html\HtmlServiceProvider::class,
-
+        Bestmomo\Scafold\ScafoldServiceProvider::class,
     ],
 
     /*
