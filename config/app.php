@@ -148,6 +148,7 @@ return [
         'Barryvdh\Debugbar\ServiceProvider',
         Collective\Html\HtmlServiceProvider::class,
         Bestmomo\Scafold\ScafoldServiceProvider::class,
+        'Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider',
     ],
 
     /*
